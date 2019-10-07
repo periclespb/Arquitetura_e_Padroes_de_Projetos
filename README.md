@@ -1,0 +1,1 @@
+# Arquitetura_e_Padroes_de_Projetos
